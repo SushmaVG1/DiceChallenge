@@ -1,0 +1,28 @@
+
+#refresh{
+    background-color: green;
+    font-size: 20px;
+}
+
+.container{
+    background-color: black;
+    align-content: center;
+    text-align: center;
+    width: 70%;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: auto;
+}
+
+.dice{
+    color: green;
+    font-family: inherit;
+    font-size: 50px;
+    display: inline-block;
+    padding: 20px;
+}
+
+h1{
+    font-size: 50px;
+    color: green;
+}
